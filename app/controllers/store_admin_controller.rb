@@ -1,7 +1,7 @@
 class StoreAdminController < ApplicationController
 
   def home
-     render :layout => "static"
+     render :layout => "application"
   end
 
 end
